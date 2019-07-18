@@ -1,5 +1,5 @@
 ---
-layout: default_and_nav
+layout: default
 title: Downloads
 ---
 Downloads test page.
